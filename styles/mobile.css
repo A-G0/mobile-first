@@ -19,7 +19,7 @@ body {
     #logo {
     text-align: center;   
 }
-container {
+.container {
     width: 100%;
    }
    main,
