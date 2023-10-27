@@ -1,0 +1,30 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(249, 248, 250);
+   }
+   header {
+    background-color:#263248
+   }
+   header h1 {
+    margin: 0;
+   }
+   header h1 a {
+    color: #fff;
+    text-decoration: none;
+   
+   }
+    #logo {
+    text-align: center;   
+}
+container {
+    width: 100%;
+   }
+   main,
+   footer {
+    padding: 0 15px;
+   }
+
+   
